@@ -1,12 +1,12 @@
-BlitzScaling 闪电式扩张
+BlitzScaling 閃電式擴張
 =======
 
-* 视频网址：https://www.youtube.com/watch?v=s3RrVmv5WwA&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--
-* 文本网址：https://github.com/xdite/blitzscaling 欢迎 fork 修正排版
+* 視訊網址：https://www.youtube.com/watch?v=s3RrVmv5WwA&list=PLnsTB8Q5VgnVzh1S-VMCXiuwJglk5AV--
+* 文字網址：https://github.com/xdite/blitzscaling 歡迎 fork 修正排版
 
 
-* CS183C 闪电式扩张
-* 1-8,10-19 字幕来自官方
-* 9,20 来自私人付费翻译
+* CS183C 閃電式擴張
+* 1-8,10-19 字幕來自官方
+* 9,20 來自私人付費翻譯
 
-整理 by xdite, 内容版权归属 Greylock Partners, 本书仅供学习使用
+整理 by xdite, 內容版權歸屬 Greylock Partners, 本書僅供學習使用
